@@ -4,7 +4,7 @@ We are an innovative technology company dedicated to developing cutting-edge AI 
 
 ## About Us
 
-Trailzo (OPC) Private Limited is committed to providing intelligent, autonomous solutions that seamlessly integrate into business workflows, enhancing efficiency and enabling organizations to scale effortlessly. Our team of experts is passionate about driving innovation and delivering value through AI-powered products and services.
+Trailzo (OPC) Private Limited is committed to providing intelligent, autonomous solutions that seamlessly integrate into business workflows, enhancing efficiency and enabling organizations to scale effortlessly. We are passionate about driving innovation and delivering value through AI-powered products and services.
 
 ## Our Vision
 
