@@ -1,6 +1,6 @@
-# Trailzo (OPC) Private Limited
+## Welcome to Trailzo's official GitHub Page!
 
-Welcome to Trailzo's official GitHub Organisation Page! We are an innovative technology company dedicated to developing cutting-edge AI solutions that address critical business challenges. Our mission is to revolutionize the way businesses operate by leveraging the power of artificial intelligence.
+We are an innovative technology company dedicated to developing cutting-edge AI solutions that address critical business challenges. Our mission is to revolutionize the way businesses operate by leveraging the power of artificial intelligence.
 
 ## About Us
 
